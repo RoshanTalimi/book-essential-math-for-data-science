@@ -9,4 +9,3 @@ Publisher: O'Reilly
 source venv/bin/activate 
 jupyter lab
 ```
-
