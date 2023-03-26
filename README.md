@@ -7,5 +7,5 @@ Publisher: O'Reilly
 ## Virtual Enviroment
 ```
 source venv/bin/activate 
-jupyter lab
+jupyter notebook
 ```
